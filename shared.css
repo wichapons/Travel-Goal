@@ -8,7 +8,7 @@ header  {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 15px 50px;
+    padding: 15px;
 }
 
 #logo a{
@@ -23,8 +23,8 @@ header  {
 
 header ul{
     list-style: none;
-    margin:10;
-    padding: 0;
+    /* margin:10;
+    padding: 0; */
     display: flex;
 }
 
@@ -34,5 +34,8 @@ li a{
     color: black;
 }
 
+#main{
+    color: white;
+}
 
 
