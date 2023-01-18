@@ -33,14 +33,28 @@ header ul{
     display: flex;
 }
 
-li a{
+header a{
     margin-left: 20px;
     text-decoration: none;
-    color: white;
+    color: black;
+    font-size: 21px;
+    font-weight: 600;
+    text-shadow: 1px 1px 0.25px gray;
+    padding: 15px;
+}
+
+header a:hover{
+    color: orangered;
 }
 
 #main{
     color: white;
 }
 
+#destinations{
+    display: flex;
+}
 
+.destinations{
+
+}
