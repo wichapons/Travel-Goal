@@ -9,6 +9,11 @@ header  {
     align-items: center;
     justify-content: space-between;
     padding: 15px;
+    /* move background pic to merge with nav bar */
+    position: absolute;
+    width: 100%;
+    box-sizing: border-box;
+
 }
 
 #logo a{
@@ -31,7 +36,7 @@ header ul{
 li a{
     margin-left: 20px;
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 #main{
