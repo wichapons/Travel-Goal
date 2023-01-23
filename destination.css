@@ -43,7 +43,7 @@ main ul {
 }
 
 .content-description{
-    padding: 24px;
+    padding: 16px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -67,6 +67,4 @@ main ul {
 
 .explore-button a:hover{
     background-color: rgba(109, 201, 224, 0.2); 
-    
-    
 }
