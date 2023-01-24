@@ -40,11 +40,12 @@ header a{
     font-size: 21px;
     font-weight: 600;
     text-shadow: 1px 1px 0.25px gray;
-    padding: 15px;
+    padding: 10px;
 }
 
-header a:hover{
-    color: orangered;
+header nav a:hover{
+    background-color: yellow;
+    border-radius: 4px;
 }
 
 #main{

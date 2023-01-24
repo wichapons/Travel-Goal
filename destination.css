@@ -68,3 +68,8 @@ main ul {
 .explore-button a:hover{
     background-color: rgba(109, 201, 224, 0.2); 
 }
+
+header nav a:hover{
+    background-color: rgb(164, 213, 226);
+    border-radius: 4px;
+}
